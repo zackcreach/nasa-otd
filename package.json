@@ -7,10 +7,13 @@
     "build": "NODE_ENV=production webpack"
   },
   "dependencies": {
+    "axios": "0.16.2",
     "prop-types": "15.5.10",
     "react": "15.6.1",
     "react-dom": "15.6.1",
-    "react-router-dom": "4.1.1"
+    "react-redux": "5.0.6",
+    "react-router-dom": "4.1.1",
+    "redux": "3.7.2"
   },
   "devDependencies": {
     "babel": "6.23.0",
