@@ -1,0 +1,18 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false,
+        "targets": {
+          "browsers": ["last 2 Chrome versions"]
+        }
+      },
+    ],
+    "react"
+  ],
+  "plugins": [
+    "react-hot-loader/babel"
+    //Enables React code to work with HMR.
+  ]
+}
