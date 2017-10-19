@@ -1,0 +1,16 @@
+.nasa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+  background: linear-gradient(30deg, black, darkgrey);
+
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+  text-align: center;
+  letter-spacing: -1px;
+  color: rgba(255, 255, 255, .9);
+}
